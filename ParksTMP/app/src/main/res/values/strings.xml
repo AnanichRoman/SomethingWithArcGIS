@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ParksTMP</string>
+    <string name="sample_service_url">http://services5.arcgis.com/wrR6JcNwfUZe7AYM/arcgis/rest/services/Pticy/FeatureServer/0</string>
+</resources>
